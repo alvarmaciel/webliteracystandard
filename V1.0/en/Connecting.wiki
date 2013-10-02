@@ -1,0 +1,39 @@
+__NOTOC__
+== Connecting ==
+''Participating on the Web''
+
+=== Sharing & Collaborating ===
+''Jointly creating and providing access to Web resources''
+* Sharing a resource using an appropriate tool and format for the audience
+* Tracking changes made to co-created Web resources
+* Choosing a Web tool to use for a particular contribution/collaboration
+* Co-creating Web resources
+* Configuring notifications to keep up-to-date with community spaces and interactions
+*Using synchronous and asynchronous tools to communicate with Web communities, networks and groups
+
+
+=== Community participation ===
+''Getting involved in Web communities and understanding their practices''
+* Encouraging participation in Web communities
+* Using constructive criticism in a group or community setting
+* Configuring settings within tools used by online communities
+* Participating in both synchronous and asynchronous discussions
+* Expressing opinions appropriately in Web discussions
+* Defining different terminology used within online communities
+
+
+=== Privacy ===
+''Examining the consequences of sharing data online''
+* Identifying rights retained and removed through user agreements
+* Taking steps to secure non-encrypted connections
+* Explaining ways in which computer criminals are able to gain access to user information
+* Managing the digital footprint of an online persona
+* Identifying and taking steps to keep important elements of identity private
+
+
+=== Open practices ===
+''Helping to keep the Web democratic and universally accessible''
+* Distinguishing between open and closed licensing
+* Making Web resources available under an open license
+* Using and sharing files in open, Web-friendly formats when appropriate
+* Contributing to an Open Source project

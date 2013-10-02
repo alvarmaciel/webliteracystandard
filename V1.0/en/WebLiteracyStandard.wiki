@@ -1,0 +1,48 @@
+__NOTOC__
+<section begin=summary />{{RoadmapSummary
+|icon=WebLitStd-avatar.png|200px
+|pagelocation=Learning/WebLiteracyStandard
+|pagetitle=Web Literacy standard
+|owner=[https://mozillians.org/en-US/u/dajbelshaw/ Doug Belshaw], [https://mozillians.org/en-US/u/carlacasilli/ Carla Casilli]
+|updated=October 1st, 2013
+|description=A new, open learning standard comprising the skills and competencies people need to read, write and participate effectively on the web.
+}}<section end=summary />
+
+<p align="center" style="background:yellow;padding:10px 0 10px 0;">'''Current status:''' CODE FREEZE for v1.0</p>
+
+<p align="center" style="background:#90EE90;padding:10px 0 10px 0;">Many thanks to the '''[[Learning/WebLiteracyStandard/Contributors|Mozillians and community members]]''' who have contributed so far!</p>
+
+[[Image:WebLitStd-v1.0-specification.png|640px |link=Learning/WebLiteracyStandard/Background |alt=Mozilla Web Literacy Standard competency grid|Click to find out more about the Standard]] 
+
+== Introduction ==
+Where do you go if you want to get better at your web skills? How do you even know what's important to learn? The Web Literacy Standard comprises a map of competencies and skills that Mozilla and our community of stakeholders believe are important to pay attention to when getting better at reading, writing and participating on the web. The Web Literacy Standard is part of Mozilla’s ongoing goal to create a generation of webmakers – those who can not only elegantly consume but also write and ''participate'' on the web.&nbsp;
+[[Learning/WebLiteracyStandard/Background|...Read more]]
+
+== Strands ==
+The Web Literacy Standard is made up of three strands. Each strand has a number of competencies, which are further sub-divided into skills:
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring '''Exploring''']
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building '''Building''']
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting '''Connecting''']
+
+== Getting involved ==
+There are several ways to get involved and give feedback on the standard: 
+* Use '''[https://weblitstd.wufoo.com/forms/mozilla-web-literacy-standard-specification-v10/ this feedback form]'''  to give an indication of what you like, any questions you have, and constructive criticsm. ''(updated!)''
+* Join us for our regular [[Learning/WebLiteracyStandard/Calls|community calls]]
+* Discuss the standard on the '''[https://groups.google.com/forum/#!forum/mozilla.webmaker Mozilla Webmaker list]'''
+* Tweet '''[http://twitter.com/weblitstd @WebLitStd]''' and/or use the '''[https://twitter.com/search/realtime?q=%23weblitstd&src=typd #WebLitStd]''' hashtag
+* Respond to posts on the Web Literacy Standard '''[http://weblitstd.tumblr.com blog]'''
+* '''[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Translate Translate the standard]''' into other languages
+
+== Promoting the Standard ==
+* Download and share this [https://wiki.mozilla.org/File:WebLitStd-bookmark-flyer.pdf printable bookmark/flyer] (PDF) explaining and linking to the Web Literacy Standard
+
+== Roadmap ==
+*'''February 2013''' - Work begins
+*'''February-April 2013''' - Community calls working on the framework
+*'''26 April 2013''' - Soft launch of first draft of Web Literacy Standard
+*'''26 July 2013''' - Request For Comments (RFC): milestone release of Standard
+*'''May-September 2013''' - Feedback and iteration
+*'''October 2013''' - 'Code freeze' to finalise v1.0 of the Standard
+*'''25-27 October 2013''' - v1.0 of the Web Literacy Standard launched at the Mozilla Festival
+*'''November 2013 onwards''' - Organizations start to align with the Standard
+*'''2014''' - Ongoing revision/updates to the Standard

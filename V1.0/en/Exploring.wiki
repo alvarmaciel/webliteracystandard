@@ -1,0 +1,42 @@
+__NOTOC__
+== Exploring ==
+''Navigating the Web''
+
+
+=== Navigation ===
+''Using software tools to browse the Web''
+* Accessing the Web using the common features of Web browsers
+*Using hyperlinks to access a range of resources on the Web
+*Reading, evaluating, and manipulating URLs
+* Recognizing the visual cues in everyday Web services
+* Using browser add-ons and extensions to provide additional functionality
+
+
+=== Web Mechanics ===
+''Understanding the Web ecosystem''
+* Using and understanding the differences between URLs, IP addresses and search terms
+* Managing information from various sources on the Web
+*Demonstrating the difference between the results of varying search strategies
+
+
+=== Search ===
+''Locating information, people and resources via the Web''
+* Using keywords, search operators, and keyboard shortcuts to make Web searches more efficient.
+* Finding real-time or time-sensitive information using a range of search techniques
+* Locating or finding desired information within search results
+* Synthesizing information found from online resources through multiple searches
+
+
+=== Credibility ===
+''Critically evaluating information found on the Web''
+* Making judgments based on technical and design characteristics to assess the credibility of information
+* Researching authorship and ownership of websites and their content
+* Comparing information from a number of sources to judge the trustworthiness of content
+* Discriminating between 'original' and derivative Web content
+
+
+=== Security ===
+''Keeping systems, identities, and content safe''
+* Detecting online scams and 'phishing' by employing recognized tools and techniques
+* Encrypting data and communications using software and add-ons
+* Changing the default behavior of websites, add-ons and extensions to make Web browsing more secure

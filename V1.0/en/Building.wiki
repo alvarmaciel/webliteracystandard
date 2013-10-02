@@ -1,0 +1,47 @@
+__NOTOC__
+== Building ==
+''Creating for the Web''
+
+
+=== Composing for the Web ===
+''Creating and curating content for the Web''
+* Inserting hyperlinks into a Web page
+* Embedding multimedia content into a Web page
+* Creating Web resources in ways appropriate to the medium/genre
+* Identifying and using HTML tags
+* Structuring a Web page
+
+
+=== Remixing ===
+''Modifying existing Web resources to create something new''
+* Identifying and using openly-licensed work
+* Combining multimedia resources
+* Creating something new on the Web using existing resources
+
+
+=== Design & accessibility ===
+''Creating universally effective communications through Web resources''
+* Identifying the different parts of a Web page using industry-recognized terms
+* Improving the accessibility of a Web page by modifying its color scheme and markup
+* Iterating on a design after feedback from a target audience
+* Reorganizing the structure of a Web page to improve its hierarchy conceptual flow
+* Demonstrating the difference between inline, embedded and external CSS
+* Using CSS tags to change the style and layout of a Web page
+
+
+=== Coding/scripting ===
+''Creating interactive experiences on the Web''
+* Explaining the differences between client-side and server-side scripting
+* Composing working loops and arrays
+* Reading and explaining the structure of code
+* Using a script framework
+* Adding code comments for clarification and attribution
+
+
+=== Infrastructure ===
+''Understanding the Internet stack''
+* Understanding and labeling the Web stack
+* Explaining the differences between the Web and the Internet
+* Exporting and backing up your data from Web services
+* Moving the place(s) where your data is hosted on the Web
+* Securing your data against malware and computer criminals
